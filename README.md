@@ -1,9 +1,9 @@
-# BIPWeek_hgoodson
+# This is my very exciting webpage!
   
-## Welcome to my test page
+## Welcome
 
 Let's see what this does here.
 
-# Header 1 is this really header 1
-## Header 2 Is this really header 2
-### Heater 3 Is this really header 3
+# Header 1 
+## Header 2 
+### Header 3 
